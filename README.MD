@@ -24,8 +24,8 @@ O projeto é uma copia do Spotify - Web
 
 ## :memo: Licença
 
-Esse projeto está sob a licença Junior Magalhães.
+Esse projeto está sob a licença Júnior Magalhães.
 
 ---
 
-Feito por by Junior Magalhães 
+Feito por by Júnior Magalhães 
